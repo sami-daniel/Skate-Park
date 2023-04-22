@@ -1,2 +1,4 @@
 # Site-em-tabela-HTML
-Um representação gráfica de um site feito em tabela, utilizando um mockup do Figma.
+![image](https://user-images.githubusercontent.com/130937402/233753027-68538383-9f0e-4c0d-a438-43b6110e07fb.png)
+O site possui somente representação grafica e atualmente é infuncional, somente estético. Foi feito unica e exclusivamente com tabelas.
+Primeiro projeto em HTML.
